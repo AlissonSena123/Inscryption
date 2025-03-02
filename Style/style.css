@@ -37,7 +37,7 @@ header img{
 main{
     padding: 20px;
     max-width: 2000px;
-    min-width: 160px;
+    min-width: 500px;
     color: var(--cor3);
     font-family: var(--font);
     text-align: justify;
