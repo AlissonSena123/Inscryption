@@ -38,7 +38,7 @@ main{
     padding: 20px;
     max-width: 1000px;
     min-width: 350px;
-    color: var(--cor3);
+    color: var(--cor1);
     font-family: var(--font);
     text-align: justify;
     margin: auto;
