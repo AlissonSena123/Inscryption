@@ -57,15 +57,14 @@ h1{
     font-size: 2em;
 }
 
+#cartas{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
 
 
 #cartas img{
-    width: 100%;
     margin: 10px;
-}
-
-#cartas img.pequeno{
-    max-width: 100px;
-    min-width: 60px;
-    display: inline;
 }
