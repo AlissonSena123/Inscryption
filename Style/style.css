@@ -41,6 +41,7 @@ main{
     color: var(--cor3);
     font-family: var(--font);
     text-align: justify;
+    margin: auto;
     width: 500px;  
 }
 
