@@ -57,14 +57,20 @@ h1{
     font-size: 2em;
 }
 
-#cartas{
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    
+h2{
+    text-align: center;
+    padding: 20px;
+    font-size: 2em;
 }
 
+.cartas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
-#cartas img{
-    margin: 10px;
+.cartas img{
+    margin: 0px 10px 10px 0px;
+    max-width: 1000px;
+    min-width: 160px;
 }
