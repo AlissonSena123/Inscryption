@@ -40,7 +40,8 @@ main{
     min-width: 500px;
     color: var(--cor3);
     font-family: var(--font);
-    text-align: justify;  
+    text-align: justify;
+    width: 500px;  
 }
 
 p{
@@ -50,6 +51,7 @@ p{
 h1{
     margin-bottom: 20px;
     font-size: 2em;
+    max-width: 500px;
 }
 
 #cartas{
