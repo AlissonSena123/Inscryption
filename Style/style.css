@@ -18,8 +18,7 @@
 }
 
 body{
-    background-color: var(--cor2);
-    color: var(--cor_branco);
+    background-color: var(--cor1);
 }
 
 header{
