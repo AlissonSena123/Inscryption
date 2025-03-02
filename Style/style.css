@@ -40,9 +40,7 @@ main{
     min-width: 500px;
     color: var(--cor3);
     font-family: var(--font);
-    text-align: justify;
-    margin: auto;
-    width: 500px;
+    text-align: justify;  
 }
 
 p{
