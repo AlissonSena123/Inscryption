@@ -18,7 +18,8 @@
 }
 
 body{
-    background-color: var(--cor1);
+    background-color: var(--cor2);
+    color: var(--cor_branco);
 }
 
 header{
@@ -37,7 +38,7 @@ main{
     padding: 20px;
     max-width: 1000px;
     min-width: 350px;
-    color: var(--cor1);
+    color: var(--cor3);
     font-family: var(--font);
     text-align: justify;
     margin: auto;
@@ -46,12 +47,12 @@ main{
 
 p{
     margin-bottom: 20px;
+    max-width: 500px;
 }
 
 h1{
     margin-bottom: 20px;
     font-size: 2em;
-    max-width: 100px;
 }
 
 #cartas{
