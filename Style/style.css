@@ -33,7 +33,7 @@ header img{
 }
 
 header img.pequena{
-    max-width: 550px;
+    max-width: 360px;
     display: block;
     margin: auto;
 }
@@ -41,7 +41,7 @@ header img.pequena{
 main{
     padding: 20px;
     max-width: 1000px;
-    min-width: 350px;
+    min-width: 160px;
     color: var(--cor3);
     font-family: var(--font);
     text-align: justify;
@@ -50,7 +50,6 @@ main{
 
 p{
     margin-bottom: 20px;
-    max-width: 350px;
 }
 
 h1{
@@ -62,6 +61,7 @@ h1{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    
 }
 
 
