@@ -72,3 +72,40 @@ main{
     max-width: 1000px;
     min-width: 160px;
 }
+
+footer{
+    background-color: var(--cor3);
+    padding: 10px;
+}
+
+footer p{
+    margin: 0px;
+    padding: 0px;
+    color: var(--cor2);
+    text-align: center;
+}
+
+#contatos{
+    display: flex;
+    padding: 50px 0px;
+}
+
+.contato-instagram{
+    height: max-content;
+    margin: 0px 50px;
+}
+
+.contato-whatsapp{
+    display: flex;
+    height: max-content;
+    width: max-content;
+}
+
+.contato-whatsapp p{
+    padding-top: 6px;
+    padding-left: 5px;
+}
+
+.contato-whatsapp p:hover{
+    text-decoration: underline;
+}
