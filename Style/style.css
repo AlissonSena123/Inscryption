@@ -86,7 +86,7 @@ h1{
 }
 
 .proxima-pagina{
-    margin: 0px 50px;
+    margin: 50px;
     text-align: end;
 }
 
@@ -97,6 +97,10 @@ h1{
 
 .proxima-pagina a:hover{
     text-decoration: underline;
+}
+
+.proxima-pagina a:hover::after{
+    content: ' >';
 }
 
 .aviso{
