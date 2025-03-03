@@ -86,14 +86,16 @@ h1{
 }
 
 .proxima-pagina{
-    text-decoration: none;
     margin: 0px 50px;
-    display: block;
     text-align: end;
-    color: var(--cor3);
 }
 
-.proxima-pagina:hover{
+.proxima-pagina a{
+    color: var(--cor3);
+    text-decoration: none;
+}
+
+.proxima-pagina a:hover{
     text-decoration: underline;
 }
 
