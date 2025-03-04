@@ -87,12 +87,17 @@ footer p{
 
 #contatos{
     display: flex;
-    padding: 50px 0px;
+    padding: 50px 50px;
 }
 
+
 .contato-instagram{
-    height: max-content;
-    margin: 0px 50px;
+    margin: 0px 50px 0px 0px;
+}
+
+
+.contato-git-hub{
+    margin: 0px 50px 0px 0px;
 }
 
 .contato-whatsapp{
