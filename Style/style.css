@@ -138,7 +138,11 @@ footer p{
     margin: 0px;
     padding: 0px;
     color: var(--cor2);
-    text-align: center;
+    text-align: end;
+}
+
+footer .discrição{
+    margin-top: 10px;
 }
 
 #contatos{
