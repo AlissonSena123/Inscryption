@@ -145,35 +145,26 @@ footer .discrição{
     margin-top: 10px;
 }
 
-#contatos{
-    display: flex;
-    padding: 50px 50px;
+footer .contatos-abaixo{
+    text-align: center;
+    padding-top: 20px;
 }
 
+#contatos{
+    display: flex;
+    padding: 20px 20px;
+    justify-content: center;
+}
 
 .contato-instagram{
-    margin: 0px 50px 0px 0px;
+    margin: 0px 35px 0px 0px;
 }
 
 
 .contato-git-hub{
-    margin: 0px 50px 0px 0px;
+    margin: 0px 0px 0px 0px;
 }
 
-.contato-whatsapp{
-    display: flex;
-    height: max-content;
-    width: max-content;
-}
-
-.contato-whatsapp p{
-    padding-top: 6px;
-    padding-left: 5px;
-}
-
-.contato-whatsapp p:hover{
-    text-decoration: underline;
-}
 
 
 
