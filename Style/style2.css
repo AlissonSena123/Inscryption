@@ -85,6 +85,10 @@ footer p{
     text-align: center;
 }
 
+footer .discrição{
+    margin-top: 10px;
+}
+
 #contatos{
     display: flex;
     padding: 50px 50px;
