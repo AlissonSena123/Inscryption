@@ -134,7 +134,8 @@ h1{
     padding: 30px;
     max-width: 1000px;
     min-width: 160px;
-    height: 415px;
+    max-height: 100%;
+    min-height: 50%;
 }
 
 .video_trailer-inscryption p{
