@@ -40,6 +40,10 @@ header a:hover{
     text-decoration: underline;
 }
 
+p{
+    margin-bottom: 20px;
+}
+
 main{
     padding: 20px;
     max-width: 1000px;
@@ -76,22 +80,23 @@ main{
 footer{
     background-color: var(--cor3);
     padding: 10px;
+    color: var(--cor2);
 }
 
-footer p{
-    margin: 0px;
-    padding: 0px;
-    color: var(--cor2);
-    text-align: end;
+footer .feito-por{
+    padding-top: 10px;
+    text-align: center;
 }
+
 
 footer .discrição{
-    margin-top: 10px;
+    text-align: center;
+    padding: 0px 50px;
 }
+
 
 footer .contatos-abaixo{
     text-align: center;
-    padding-top: 20px;
 }
 
 #contatos{
@@ -100,12 +105,11 @@ footer .contatos-abaixo{
     justify-content: center;
 }
 
-
 .contato-instagram{
-    margin: 0px 50px 0px 0px;
+    margin: 0px 35px 0px 0px;
 }
 
 
 .contato-git-hub{
-    margin: 0px 50px 0px 0px;
+    margin: 0px 0px 0px 0px;
 }
