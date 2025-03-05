@@ -132,6 +132,7 @@ h1{
 .video_trailer-inscryption{
     background-image: linear-gradient(to bottom, var(--cor3), transparent 50%);
     padding: 30px;
+    margin-top: 50px;
 }
 
 .video_trailer-inscryption p{
