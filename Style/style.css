@@ -129,25 +129,41 @@ h1{
     text-decoration: underline;
 }
 
+.video_trailer-inscryption{
+    display: flex;
+    padding: 30px;
+}
+
+.video_trailer-inscryption p{
+    margin-left: 10px;
+}
+
+.video_trailer-inscryption iframe{
+    max-width: 100%;
+    min-width: 50%;
+}
+
 footer{
     background-color: var(--cor3);
     padding: 10px;
+    color: var(--cor2);
 }
 
-footer p{
-    margin: 0px;
-    padding: 0px;
-    color: var(--cor2);
-    text-align: end;
+footer .feito-por{
+    padding-top: 10px;
+    text-align: center;
 }
+
 
 footer .discrição{
-    margin-top: 10px;
+    text-align: center;
+    padding: 0px 50px;
 }
+
+
 
 footer .contatos-abaixo{
     text-align: center;
-    padding-top: 20px;
 }
 
 #contatos{
