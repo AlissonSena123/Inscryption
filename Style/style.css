@@ -132,6 +132,9 @@ h1{
 .video_trailer-inscryption{
     display: flex;
     padding: 30px;
+    max-width: 1000px;
+    min-width: 160px;
+    height: 415px;
 }
 
 .video_trailer-inscryption p{
