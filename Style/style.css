@@ -152,6 +152,7 @@ h1{
 .video_trailer-inscryption iframe{
     display: block;
     max-width: 100%;
+    min-width: 50%;
     margin: auto;
     margin-bottom: 40px;
 }
